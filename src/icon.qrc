@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/music">
+        <file alias="downover">downover.wav</file>
+    </qresource>
+</RCC>
